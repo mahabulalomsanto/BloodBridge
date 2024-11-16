@@ -1,0 +1,57 @@
+﻿@model ApplicationUser
+@{
+    string todayDate = DateTime.Now.ToString("MM-dd-yyyy");
+}
+
+<style>
+    .profile-img {
+        width: 150px;
+        height: 150px;
+        object-fit: cover;
+        border-radius: 50%;
+    }
+
+    .form-container {
+        max-width: 600px;
+        margin: 30px auto;
+        padding: 20px;
+        border: 1px solid #ddd;
+        border-radius: 10px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+
+    .btn-custom {
+        background-color: #5cb85c;
+        color: #fff;
+    }
+</style>
+
+<div class="container">
+    <div class="form-container">
+        <h2 class="text-center">Edit Info</h2>
+        <form asp-action="EditDonorInfo" method="post">
+
+            <!-- Can Donate -->
+            <div class="form-group">
+                <label asp-for="CanDonate">Can You Donate Blood</label>
+                <select class="form-control" asp-for="CanDonate">
+                    <option value="default" selected disabled>Please select an option</option>
+                    <option value="true">Yes</option>
+                    <option value="false">No</option>
+                </select>
+            </div>
+
+            <!-- Last Donation Date-->
+            <div class="form-group">
+                <label asp-for="LastDonate">Last Donate</label>
+                <input asp-for="LastDonate" type="date" class="form-control" />
+            </div>
+
+            <br />
+            <!-- Submit Button -->
+            <button type="submit" class="btn btn-custom btn-block">Save Changes</button>
+        </form>
+    </div>
+</div>
+
+

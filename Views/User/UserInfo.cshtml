@@ -1,0 +1,30 @@
+﻿@model ApplicationUser
+
+<h2 class="text-center">Your Profile</h2>
+        <div class="user-info-grid">
+            <div><strong>Name:</strong>@Model.Name </div>
+            <div><strong>Email:</strong>@Model.Email</div>
+            <div><strong>Phone:</strong>@Model.Phone</div>
+            <div><strong>District:</strong>@Model.District</div>
+            <div><strong>Blood Group:</strong>@Model.BloodGroup</div>
+            <div><strong>Profile Photo:</strong><img src="@Url.Action("GetPhoto", "User", new { id = Model.Id })" style="width: 100px" /></div>
+        </div>
+        <div class="EditBtn">
+             <a class="btn btn-primary" style="width:490px" asp-controller="User" asp-action="UpdateProfile">Edit Profile</a>
+        </div>
+
+
+        @if(Model.CanDonate==true){
+            <a class="btn btn-primary" asp-controller="Donor" asp-action="DonationInfo">View Your Donor Profile</a>
+        }
+
+        @if(Model.CanDonate== false)
+        {
+            <span>You are not a Donor</span> <a class="btn btn-primary" asp-controller="Donor" asp-action="DonationInfo">View Your Donor Profile</a>
+            
+        }
+
+
+
+
+

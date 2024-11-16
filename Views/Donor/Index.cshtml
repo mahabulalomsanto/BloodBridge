@@ -1,0 +1,50 @@
+﻿@using Microsoft.AspNetCore.Identity
+@model IEnumerable<ApplicationUser>
+
+<h2>ALL DONOR</h2>
+
+<div class="search-bar">
+    <form method="get" asp-action="Search">
+        <input type="text" name="District" placeholder="District" />
+        <select class="" name="BG">
+            <option selected disabled>Select any group</option>
+            <option value="A+">A+</option>
+            <option value="A-">A-</option>
+            <option value="B+">B+</option>
+            <option value="B-">B-</option>
+            <option value="AB+">AB+</option>
+            <option value="AB-">AB-</option>
+            <option value="O+">O+</option>
+            <option value="O-">O-</option>
+        </select>
+        <button type="submit" class="btn btn-primary"> Search</button>
+    </form>
+</div>
+
+<br />
+
+
+<table class="table table-striped table-bordered table-hover">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Blood Group</th>
+            <th>District</th>
+            <th>Photo</th>
+            <th>Contact</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var user in Model){
+            <tr>
+                <td>@user.Name </td>
+                <td>@user.BloodGroup Group</td>
+                <td>@user.District </td>
+                <td><img src="@Url.Action("GetPhoto", "User", new{id = user.Id})" style="height:80px"></td>
+                <td><a asp-controller="Donor" asp-action="Contact" asp-route-id="@user.Id">Reach</a></td>
+            </tr>
+        }
+    </tbody>
+
+</table>
+

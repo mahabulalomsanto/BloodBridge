@@ -1,0 +1,17 @@
+﻿@using Microsoft.AspNetCore.Identity
+@model ApplicationUser
+
+<h4>Hello Our Valuable User</h4>
+<br />
+<h3>You are now:
+    @if (Model.CanDonate == true)
+    {
+        <span>Donor</span>
+    }
+    else{<span>Not Donor</span>}
+</h3>
+<br />
+Your Last Donation Date: @Model.LastDonate.ToString("dd MMMM yyyy")
+<br />
+<br />
+<a class="btn btn-primary" asp-controller="Donor" asp-action="EditDonorInfo">Edit Your Information</a>

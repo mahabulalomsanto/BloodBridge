@@ -1,0 +1,52 @@
+﻿@using Microsoft.AspNetCore.Identity
+@model BloodBridge.Models.ApplicationUser
+
+<div class="row">
+    <div class="col-md-8">
+        <form asp-action="AddUser" method="post">
+            <h2>Add a new user</h2>
+            <hr />
+
+            <div class="mb-3">
+                <label asp-for="UserName">Email</label>
+                <input asp-for="UserName" class="form-control" />
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="Name">Name</label>
+                <input asp-for="Name" class="form-control" />
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="BloodGroup">Blood Group</label>
+                <input asp-for="BloodGroup" class="form-control" />
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="District">District</label>
+                <input asp-for="District" class="form-control" />
+            </div>
+
+            <div class="mb-3">
+                <label for="Role">Select Role for User</label>
+                <select id="Role" name="role" class="form-control">
+                    <option value="">Select a role</option>
+                    @if (ViewBag.Roles != null)
+                    {
+                        foreach (var role in ViewBag.Roles)
+                        {
+                            <option value="@role">@role</option>
+                        }
+                    }
+                </select>
+            </div>
+
+            <div class="mb-3">
+                <label for="Password">Password</label>
+                <input type="password" id="Password" name="password" class="form-control" />
+            </div>
+
+            <button type="submit" class="w-100 btn btn-lg btn-primary">Add User</button>
+        </form>
+    </div>
+</div>

@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.34929.205
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BloodBridge", "BloodBridge.csproj", "{1B36B68C-3C65-44B5-9174-8B95B12288DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B36B68C-3C65-44B5-9174-8B95B12288DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B36B68C-3C65-44B5-9174-8B95B12288DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B36B68C-3C65-44B5-9174-8B95B12288DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B36B68C-3C65-44B5-9174-8B95B12288DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B7F2492-9BDA-4F67-ABD1-B62987186F9E}
+	EndGlobalSection
+EndGlobal

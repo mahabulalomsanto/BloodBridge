@@ -1,0 +1,94 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+.navbar {
+    height: 80px;
+    background-color: #A1D6B2
+}
+
+.search-bar {
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+}
+
+.search-bar input, select {
+        padding: 8px;
+        margin-right: 10px;
+        width: 20%;
+        border: 1px solid #ccc;
+        border-radius: 3px;
+}
+
+    .search-bar button {
+        padding: 8px 12px;
+        background-color: #007bff;
+        color: white;
+        border: none;
+        border-radius: 3px;
+        cursor: pointer;
+    }
+
+.userInfo {
+    background-color: #f4f6f6;
+    border-radius: 10px;
+    font-size: 17px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+
+
+
+.user-info-grid {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    gap: 10px 20px;
+    background: #fefefe;
+    padding: 20px;
+    max-width: 500px;
+    margin: 20px auto;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
+    .user-info-grid div {
+        padding: 10px;
+        font-family: 'Helvetica', sans-serif;
+    }
+
+        .user-info-grid div:nth-child(2n) {
+            text-align: right;
+        }
+
+        .user-info-grid div:last-child {
+            border-bottom: none;
+        }
+
+    .user-info-grid strong {
+        color: #444;
+    }
+
+.EditBtn{
+    text-align:center;
+}

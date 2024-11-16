@@ -1,0 +1,361 @@
+{
+  "Files": [
+    {
+      "Id": "/Volumes/PROGRAMMING/ASP.NET /NET Core Practice/BloodBridge/BloodBridge/obj/Debug/net8.0/scopedcss/projectbundle/BloodBridge.bundle.scp.css",
+      "PackagePath": "staticwebassets/BloodBridge.bundle.scp.css"
+    },
+    {
+      "Id": "/Volumes/PROGRAMMING/ASP.NET /NET Core Practice/BloodBridge/BloodBridge/wwwroot/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Volumes/PROGRAMMING/ASP.NET /NET Core Practice/BloodBridge/BloodBridge/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/Volumes/PROGRAMMING/ASP.NET /NET Core Practice/BloodBridge/BloodBridge/wwwroot/css/style.css",
+      "PackagePath": "staticwebassets/css/style.css"
+    },
+    {
+      "Id": "/Volumes/PROGRAMMING/ASP.NET /NET Core Practice/BloodBridge/BloodBridge/wwwroot/img/1.jpg",
+      "PackagePath": "staticwebassets/img/1.jpg"
+    },
+    {
+      "Id": "/Volumes/PROGRAMMING/ASP.NET /NET Core Practice/BloodBridge/BloodBridge/wwwroot/img/2.jpg",
+      "PackagePath": "staticwebassets/img/2.jpg"
+    },
+    {
+      "Id": "/Volumes/PROGRAMMING/ASP.NET /NET Core Practice/BloodBridge/BloodBridge/wwwroot/img/icon-apartment.png",
+      "PackagePath": "staticwebassets/img/icon-apartment.png"
+    },
+    {
+      "Id": "/Volumes/PROGRAMMING/ASP.NET /NET Core Practice/BloodBridge/BloodBridge/wwwroot/img/icon-building.png",
+      "PackagePath": "staticwebassets/img/icon-building.png"
+    },
+    {
+      "Id": "/Volumes/PROGRAMMING/ASP.NET /NET Core Practice/BloodBridge/BloodBridge/wwwroot/img/icon-condominium.png",
+      "PackagePath": "staticwebassets/img/icon-condominium.png"
+    },
+    {
+      "Id": "/Volumes/PROGRAMMING/ASP.NET /NET Core Practice/BloodBridge/BloodBridge/wwwroot/img/icon-deal.png",
+      "PackagePath": "staticwebassets/img/icon-deal.png"
+    },
+    {
+      "Id": "/Volumes/PROGRAMMING/ASP.NET /NET Core Practice/BloodBridge/BloodBridge/wwwroot/img/icon-house.png",
+      "PackagePath": "staticwebassets/img/icon-house.png"
+    },
+    {
+      "Id": "/Volumes/PROGRAMMING/ASP.NET /NET Core Practice/BloodBridge/BloodBridge/wwwroot/img/icon-housing.png",
+      "PackagePath": "staticwebassets/img/icon-housing.png"
+    },
+    {
+      "Id": "/Volumes/PROGRAMMING/ASP.NET /NET Core Practice/BloodBridge/BloodBridge/wwwroot/img/icon-luxury.png",
+      "PackagePath": "staticwebassets/img/icon-luxury.png"
+    },
+    {
+      "Id": "/Volumes/PROGRAMMING/ASP.NET /NET Core Practice/BloodBridge/BloodBridge/wwwroot/img/icon-neighborhood.png",
+      "PackagePath": "staticwebassets/img/icon-neighborhood.png"
+    },
+    {
+      "Id": "/Volumes/PROGRAMMING/ASP.NET /NET Core Practice/BloodBridge/BloodBridge/wwwroot/img/icon-search.png",
+      "PackagePath": "staticwebassets/img/icon-search.png"
+    },
+    {
+      "Id": "/Volumes/PROGRAMMING/ASP.NET /NET Core Practice/BloodBridge/BloodBridge/wwwroot/img/icon-villa.png",
+      "PackagePath": "staticwebassets/img/icon-villa.png"
+    },
+    {
+      "Id": "/Volumes/PROGRAMMING/ASP.NET /NET Core Practice/BloodBridge/BloodBridge/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/Volumes/PROGRAMMING/ASP.NET /NET Core Practice/BloodBridge/BloodBridge/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/Volumes/PROGRAMMING/ASP.NET /NET Core Practice/BloodBridge/BloodBridge/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Volumes/PROGRAMMING/ASP.NET /NET Core Practice/BloodBridge/BloodBridge/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Volumes/PROGRAMMING/ASP.NET /NET Core Practice/BloodBridge/BloodBridge/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Volumes/PROGRAMMING/ASP.NET /NET Core Practice/BloodBridge/BloodBridge/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Volumes/PROGRAMMING/ASP.NET /NET Core Practice/BloodBridge/BloodBridge/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Volumes/PROGRAMMING/ASP.NET /NET Core Practice/BloodBridge/BloodBridge/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Volumes/PROGRAMMING/ASP.NET /NET Core Practice/BloodBridge/BloodBridge/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Volumes/PROGRAMMING/ASP.NET /NET Core Practice/BloodBridge/BloodBridge/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Volumes/PROGRAMMING/ASP.NET /NET Core Practice/BloodBridge/BloodBridge/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Volumes/PROGRAMMING/ASP.NET /NET Core Practice/BloodBridge/BloodBridge/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Volumes/PROGRAMMING/ASP.NET /NET Core Practice/BloodBridge/BloodBridge/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Volumes/PROGRAMMING/ASP.NET /NET Core Practice/BloodBridge/BloodBridge/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Volumes/PROGRAMMING/ASP.NET /NET Core Practice/BloodBridge/BloodBridge/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Volumes/PROGRAMMING/ASP.NET /NET Core Practice/BloodBridge/BloodBridge/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Volumes/PROGRAMMING/ASP.NET /NET Core Practice/BloodBridge/BloodBridge/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Volumes/PROGRAMMING/ASP.NET /NET Core Practice/BloodBridge/BloodBridge/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Volumes/PROGRAMMING/ASP.NET /NET Core Practice/BloodBridge/BloodBridge/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Volumes/PROGRAMMING/ASP.NET /NET Core Practice/BloodBridge/BloodBridge/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Volumes/PROGRAMMING/ASP.NET /NET Core Practice/BloodBridge/BloodBridge/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Volumes/PROGRAMMING/ASP.NET /NET Core Practice/BloodBridge/BloodBridge/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Volumes/PROGRAMMING/ASP.NET /NET Core Practice/BloodBridge/BloodBridge/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Volumes/PROGRAMMING/ASP.NET /NET Core Practice/BloodBridge/BloodBridge/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Volumes/PROGRAMMING/ASP.NET /NET Core Practice/BloodBridge/BloodBridge/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Volumes/PROGRAMMING/ASP.NET /NET Core Practice/BloodBridge/BloodBridge/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Volumes/PROGRAMMING/ASP.NET /NET Core Practice/BloodBridge/BloodBridge/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Volumes/PROGRAMMING/ASP.NET /NET Core Practice/BloodBridge/BloodBridge/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Volumes/PROGRAMMING/ASP.NET /NET Core Practice/BloodBridge/BloodBridge/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Volumes/PROGRAMMING/ASP.NET /NET Core Practice/BloodBridge/BloodBridge/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Volumes/PROGRAMMING/ASP.NET /NET Core Practice/BloodBridge/BloodBridge/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Volumes/PROGRAMMING/ASP.NET /NET Core Practice/BloodBridge/BloodBridge/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Volumes/PROGRAMMING/ASP.NET /NET Core Practice/BloodBridge/BloodBridge/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Volumes/PROGRAMMING/ASP.NET /NET Core Practice/BloodBridge/BloodBridge/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Volumes/PROGRAMMING/ASP.NET /NET Core Practice/BloodBridge/BloodBridge/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Volumes/PROGRAMMING/ASP.NET /NET Core Practice/BloodBridge/BloodBridge/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Volumes/PROGRAMMING/ASP.NET /NET Core Practice/BloodBridge/BloodBridge/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Volumes/PROGRAMMING/ASP.NET /NET Core Practice/BloodBridge/BloodBridge/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Volumes/PROGRAMMING/ASP.NET /NET Core Practice/BloodBridge/BloodBridge/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Volumes/PROGRAMMING/ASP.NET /NET Core Practice/BloodBridge/BloodBridge/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Volumes/PROGRAMMING/ASP.NET /NET Core Practice/BloodBridge/BloodBridge/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Volumes/PROGRAMMING/ASP.NET /NET Core Practice/BloodBridge/BloodBridge/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Volumes/PROGRAMMING/ASP.NET /NET Core Practice/BloodBridge/BloodBridge/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Volumes/PROGRAMMING/ASP.NET /NET Core Practice/BloodBridge/BloodBridge/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Volumes/PROGRAMMING/ASP.NET /NET Core Practice/BloodBridge/BloodBridge/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Volumes/PROGRAMMING/ASP.NET /NET Core Practice/BloodBridge/BloodBridge/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Volumes/PROGRAMMING/ASP.NET /NET Core Practice/BloodBridge/BloodBridge/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/Volumes/PROGRAMMING/ASP.NET /NET Core Practice/BloodBridge/BloodBridge/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Volumes/PROGRAMMING/ASP.NET /NET Core Practice/BloodBridge/BloodBridge/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Volumes/PROGRAMMING/ASP.NET /NET Core Practice/BloodBridge/BloodBridge/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/Volumes/PROGRAMMING/ASP.NET /NET Core Practice/BloodBridge/BloodBridge/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/Volumes/PROGRAMMING/ASP.NET /NET Core Practice/BloodBridge/BloodBridge/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/Volumes/PROGRAMMING/ASP.NET /NET Core Practice/BloodBridge/BloodBridge/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/Volumes/PROGRAMMING/ASP.NET /NET Core Practice/BloodBridge/BloodBridge/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Volumes/PROGRAMMING/ASP.NET /NET Core Practice/BloodBridge/BloodBridge/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/Volumes/PROGRAMMING/ASP.NET /NET Core Practice/BloodBridge/BloodBridge/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/Volumes/PROGRAMMING/ASP.NET /NET Core Practice/BloodBridge/BloodBridge/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Volumes/PROGRAMMING/ASP.NET /NET Core Practice/BloodBridge/BloodBridge/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "/Volumes/PROGRAMMING/ASP.NET /NET Core Practice/BloodBridge/BloodBridge/wwwroot/lib/owlcarousel/LICENSE",
+      "PackagePath": "staticwebassets/lib/owlcarousel"
+    },
+    {
+      "Id": "/Volumes/PROGRAMMING/ASP.NET /NET Core Practice/BloodBridge/BloodBridge/wwwroot/lib/owlcarousel/assets/ajax-loader.gif",
+      "PackagePath": "staticwebassets/lib/owlcarousel/assets/ajax-loader.gif"
+    },
+    {
+      "Id": "/Volumes/PROGRAMMING/ASP.NET /NET Core Practice/BloodBridge/BloodBridge/wwwroot/lib/owlcarousel/assets/owl.carousel.css",
+      "PackagePath": "staticwebassets/lib/owlcarousel/assets/owl.carousel.css"
+    },
+    {
+      "Id": "/Volumes/PROGRAMMING/ASP.NET /NET Core Practice/BloodBridge/BloodBridge/wwwroot/lib/owlcarousel/assets/owl.carousel.min.css",
+      "PackagePath": "staticwebassets/lib/owlcarousel/assets/owl.carousel.min.css"
+    },
+    {
+      "Id": "/Volumes/PROGRAMMING/ASP.NET /NET Core Practice/BloodBridge/BloodBridge/wwwroot/lib/owlcarousel/assets/owl.theme.default.css",
+      "PackagePath": "staticwebassets/lib/owlcarousel/assets/owl.theme.default.css"
+    },
+    {
+      "Id": "/Volumes/PROGRAMMING/ASP.NET /NET Core Practice/BloodBridge/BloodBridge/wwwroot/lib/owlcarousel/assets/owl.theme.default.min.css",
+      "PackagePath": "staticwebassets/lib/owlcarousel/assets/owl.theme.default.min.css"
+    },
+    {
+      "Id": "/Volumes/PROGRAMMING/ASP.NET /NET Core Practice/BloodBridge/BloodBridge/wwwroot/lib/owlcarousel/assets/owl.theme.green.css",
+      "PackagePath": "staticwebassets/lib/owlcarousel/assets/owl.theme.green.css"
+    },
+    {
+      "Id": "/Volumes/PROGRAMMING/ASP.NET /NET Core Practice/BloodBridge/BloodBridge/wwwroot/lib/owlcarousel/assets/owl.theme.green.min.css",
+      "PackagePath": "staticwebassets/lib/owlcarousel/assets/owl.theme.green.min.css"
+    },
+    {
+      "Id": "/Volumes/PROGRAMMING/ASP.NET /NET Core Practice/BloodBridge/BloodBridge/wwwroot/lib/owlcarousel/assets/owl.video.play.png",
+      "PackagePath": "staticwebassets/lib/owlcarousel/assets/owl.video.play.png"
+    },
+    {
+      "Id": "/Volumes/PROGRAMMING/ASP.NET /NET Core Practice/BloodBridge/BloodBridge/wwwroot/lib/owlcarousel/owl.carousel.js",
+      "PackagePath": "staticwebassets/lib/owlcarousel/owl.carousel.js"
+    },
+    {
+      "Id": "/Volumes/PROGRAMMING/ASP.NET /NET Core Practice/BloodBridge/BloodBridge/wwwroot/lib/owlcarousel/owl.carousel.min.js",
+      "PackagePath": "staticwebassets/lib/owlcarousel/owl.carousel.min.js"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.BloodBridge.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.BloodBridge.props",
+      "PackagePath": "build\\BloodBridge.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.BloodBridge.props",
+      "PackagePath": "buildMultiTargeting\\BloodBridge.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.BloodBridge.props",
+      "PackagePath": "buildTransitive\\BloodBridge.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
